@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/taifal.qahtani/Desktop/GitHub/sayaratech/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/taifal.qahtani/Desktop/GitHub/sayaratech/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/taifal.qahtani/Desktop/GitHub/sayaratech/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/taifal.qahtani/Desktop/GitHub/Sayara-Tech/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/taifal.qahtani/Desktop/GitHub/Sayara-Tech/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/taifal.qahtani/Desktop/GitHub/Sayara-Tech/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/Users/taifal.qahtani/Desktop/GitHub/sayaratech/android@@:shared_preferences_android::release"
-      jars="/Users/taifal.qahtani/Desktop/GitHub/sayaratech/build/shared_preferences_android/.transforms/2275d8f3bca789829eeb4a79f066a9ba/transformed/out/jars/classes.jar"
+      name="/Users/taifal.qahtani/Desktop/GitHub/Sayara-Tech/android@@:shared_preferences_android::release"
+      jars="/Users/taifal.qahtani/Desktop/GitHub/Sayara-Tech/build/shared_preferences_android/.transforms/be08624b6ff6d9699612c2b7e27acfc0/transformed/out/jars/classes.jar"
       resolved="io.flutter.plugins.sharedpreferences:shared_preferences_android:unspecified"
-      folder="/Users/taifal.qahtani/Desktop/GitHub/sayaratech/build/shared_preferences_android/.transforms/2275d8f3bca789829eeb4a79f066a9ba/transformed/out"
+      folder="/Users/taifal.qahtani/Desktop/GitHub/Sayara-Tech/build/shared_preferences_android/.transforms/be08624b6ff6d9699612c2b7e27acfc0/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
