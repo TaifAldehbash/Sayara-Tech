@@ -534,7 +534,7 @@
                     }
                 },
                 {
-                    "source": "/Users/taifal.qahtani/Desktop/GitHub/sayaratech/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/taifal.qahtani/Desktop/GitHub/Sayara-Tech/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -712,7 +712,7 @@
             "outputFile": "com.example.sayaratech.app-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/taifal.qahtani/Desktop/GitHub/sayaratech/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/taifal.qahtani/Desktop/GitHub/Sayara-Tech/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

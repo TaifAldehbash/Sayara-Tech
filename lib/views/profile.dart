@@ -349,7 +349,7 @@ class _Profile extends State<Profile> {
                                       Icon(Icons.wallet),
                                       Padding(
                                         padding: EdgeInsets.only(
-                                            right: deviceWidth * 0.31,
+                                            right: deviceWidth * 0.35,
                                             left: deviceWidth * 0.01),
                                         child: Text(
                                           "Wallet Palance",
@@ -387,7 +387,7 @@ class _Profile extends State<Profile> {
                                       Icon(Icons.receipt),
                                       Padding(
                                         padding: EdgeInsets.only(
-                                            right: deviceWidth * 0.4,
+                                            right: deviceWidth * 0.43,
                                             left: deviceWidth * 0.01),
                                         child: Text(
                                           "Paid Requests",
@@ -421,7 +421,7 @@ class _Profile extends State<Profile> {
                                       Icon(Icons.request_page),
                                       Padding(
                                         padding: EdgeInsets.only(
-                                            right: deviceWidth * 0.34,
+                                            right: deviceWidth * 0.37,
                                             left: deviceWidth * 0.01),
                                         child: Text(
                                           "Paid Receipts",

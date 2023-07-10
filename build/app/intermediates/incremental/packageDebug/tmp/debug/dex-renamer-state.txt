@@ -1,4 +1,4 @@
-#Mon Jul 10 06:51:56 AST 2023
-base.0=/Users/taifal.qahtani/Desktop/GitHub/sayaratech/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Jul 10 07:33:01 AST 2023
+base.0=/Users/taifal.qahtani/Desktop/GitHub/Sayara-Tech/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
